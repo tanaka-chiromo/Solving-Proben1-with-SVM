@@ -1,2 +1,2 @@
 # Solving-Proben1-with-SVM
-Evaluating how a support vector implementation performs on the Proben1 datasets.
+Evaluating how a python support vector implementation performs on the Proben1 datasets.
