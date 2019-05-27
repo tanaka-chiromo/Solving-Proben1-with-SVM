@@ -23,6 +23,11 @@ Running The File
 
 Run the script... evaluate_proben1_svm.py
 
+Dependencies
+============
+
+Requires that the LIBSVM library be installed on the host machine and added to the path
+
 Output
 ======
 
