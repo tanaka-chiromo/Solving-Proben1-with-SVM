@@ -26,4 +26,4 @@ Run the script... evaluate_proben1_svm.py
 Output
 ======
 
-The evaluated test results for each Proben1 problem.
+The evaluated test accuracy for each Proben1 dataset.
