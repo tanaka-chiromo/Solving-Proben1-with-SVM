@@ -1,14 +1,11 @@
 Solving The Proben1 Problems With SVM (RBF kernel)
 ==================================================
 
-Proben1 is a collection of problems for neural network learning 
-in the realm of pattern classification and function approximation 
-plus a set of rules and conventions for carrying out benchmark tests 
-with these or similar problems. Proben1 contains 15 data sets from 
+Proben1 is a collection of datasets compiled for neural network classification algorithms. It contains 15 data sets from 
 12 different domains. 
 
-This python implementation evaluates the Proben1 problems with Support
-Vector Machines. The LIBSVM library for python was used for the implementation.
+This python implementation evaluates the Proben1 datasets using Support
+Vector Machines instead of neural networks. The LIBSVM library for python was used for the implementation.
 
 Instructions
 ============
